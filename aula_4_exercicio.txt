@@ -1,0 +1,290 @@
+Atividade 1
+
+ 1. Divulgue ofertas nas redes sociais
+
+Publique promoções, novidades e produtos em destaque regularmente no Instagram, Facebook e WhatsApp.
+
+Exemplo:
+"Somente hoje: 15% de desconto em toda a loja."
+
+Benefício: Atrai mais clientes e aumenta a visibilidade da marca.
+
+2. Crie um programa de fidelidade
+
+Ofereça vantagens para quem compra com frequência.
+
+Exemplo:
+"A cada 10 compras, ganhe um desconto especial ou um brinde."
+
+Benefício: Incentiva os clientes a voltarem e comprarem novamente.
+
+3. Use o WhatsApp para relacionamento
+
+Monte uma lista de clientes e envie ofertas, lançamentos e lembretes de forma personalizada.
+
+Exemplo:
+"Olá! Chegaram novos produtos que combinam com suas últimas compras."
+
+Benefício: Mantém a loja presente na mente do cliente e aumenta as chances de novas vendas.
+
+Essas três ações são de baixo custo, fáceis de implementar e podem gerar resultados rapidamente quando executadas de forma consistente.
+
+2 C — Contexto
+
+Uma loja quer aumentar suas vendas e precisa de estratégias simples e práticas de marketing digital para aplicar no dia a dia.
+
+R — Role (Papel)
+
+Você é um especialista em marketing digital com experiência em crescimento de pequenas e médias empresas.
+
+A — Ação
+
+Explique e forneça 3 dicas simples e eficazes para melhorar as vendas da loja, focando em ações fáceis de implementar.
+
+F — Formato
+
+Apresente a resposta em formato de lista numerada (1, 2, 3), com cada dica contendo:
+
+Título curto
+Explicação simples
+Exemplo prático
+T — Tom
+
+Use um tom claro, direto e profissional, adequado para um pequeno empreendedor.
+
+Prompt final (CRAFT):
+
+Você é um especialista em marketing digital com experiência em crescimento de pequenas e médias empresas. Uma loja quer aumentar suas vendas e precisa de estratégias simples e práticas de marketing digital para aplicar no dia a dia. Explique e forneça 3 dicas simples e eficazes para melhorar as vendas da loja, focando em ações fáceis de implementar. Apresente a resposta em formato de lista numerada (1, 2, 3), com cada dica contendo: título curto, explicação simples e exemplo prático. Use um tom claro, direto e profissional, adequado para um pequeno empreendedor.
+
+Obtenha respostas mais inteligentes, carregamento de imagens e de arquivos e muito mais.
+Entrar
+Cadastre-se gratuitamente
+
+3 C — Context (Contexto)
+
+Uma loja deseja aumentar suas vendas e precisa de ideias simples e práticas de marketing digital para aplicar no dia a dia.
+
+O — Objective (Objetivo)
+
+Gerar 3 dicas simples e eficazes para melhorar as vendas da loja.
+
+S — Style (Estilo)
+
+Explicativo, prático e orientado para ação, com linguagem simples.
+
+T — Tone (Tom)
+
+Profissional, claro e direto, voltado para pequenos empreendedores.
+
+A — Audience (Público-alvo)
+
+Dono ou gestor de uma pequena loja que não tem conhecimento avançado em marketing digital.
+
+R — Response (Resposta)
+
+Apresente a resposta em formato de lista numerada (1, 2, 3).
+Cada dica deve conter:
+
+Título curto
+Explicação simples
+Exemplo prático de aplicação
+Prompt final (COSTAR):
+
+Você é um especialista em marketing digital. Uma loja deseja aumentar suas vendas e precisa de ideias simples e práticas de marketing digital para aplicar no dia a dia. Seu objetivo é gerar 3 dicas simples e eficazes para melhorar as vendas da loja. Use um estilo explicativo, prático e orientado para ação, com linguagem simples. O tom deve ser profissional, claro e direto, voltado para pequenos empreendedores. O público-alvo é o dono ou gestor de uma pequena loja que não tem conhecimento avançado em marketing digital. Apresente a resposta em formato de lista numerada (1, 2, 3), e cada dica deve conter: título curto, explicação simples e exemplo prático de aplicação.
+
+4 R — Role (Papel)
+
+Você é um especialista em marketing digital com experiência em ajudar pequenas lojas a aumentarem suas vendas.
+
+T — Task (Tarefa)
+
+Criar 3 dicas simples, práticas e eficazes para melhorar as vendas de uma loja.
+
+F — Format (Formato)
+
+Apresente a resposta em lista numerada (1, 2, 3).
+Cada item deve conter:
+
+Título curto
+Explicação simples
+Exemplo prático de aplicação
+Prompt final (RTF):
+
+Você é um especialista em marketing digital com experiência em ajudar pequenas lojas a aumentarem suas vendas. Sua tarefa é criar 3 dicas simples, práticas e eficazes para melhorar as vendas de uma loja. Apresente a resposta em formato de lista numerada (1, 2, 3). Cada dica deve conter um título curto, uma explicação simples e um exemplo prático de aplicação.
+
+-----------------------------
+
+Atividade 2: 
+
+SIMPLES # Planejamento de Marketing Digital: Alavancar Vendas
+
+Este documento reúne 3 estratégias simples e de alto impacto para motivar as vendas do comércio no ambiente digital.
+
+---
+
+## 1. O Poder do "Gancho" no WhatsApp (Atendimento Proativo)
+Transformar o aplicativo em um canal ativo de vendas, abandonando a postura passiva de apenas responder dúvidas.
+
+* **Como fazer:** Monitore os clientes que já compraram ou demonstraram interesse nos últimos 30 a 60 dias. Envie uma mensagem personalizada com um benefício exclusivo.
+* **A tática:** *"Olá, [Nome]! Lembrei de você porque chegou uma nova remessa do [produto] e, como você já é nosso cliente, consegui separar uma unidade com 10% de desconto para as próximas 24h. Quer que eu reserve?"*
+* **Por que funciona:** Ativa os gatilhos da **exclusividade** e da **escassez** (tempo limitado), movendo o cliente direto para o fechamento.
+
+---
+
+## 2. Parcerias Locais com Microinfluenciadores
+Utilizar a autoridade de perfis da região (entre 2 mil e 10 mil seguidores) que possuem público muito engajado.
+
+* **Como fazer:** Identifique perfis no bairro ou cidade que conversem com o público-alvo do comércio.
+* **A tática:** Ofereça uma permuta de produtos em troca de uma sequência de *Stories* reais mostrando a experiência de consumo. Crie um cupom exclusivo (ex: `NOMEDELA10`) para rastrear as vendas.
+* **Por que funciona:** Gera **prova social**. As pessoas compram baseadas na recomendação de quem elas já acompanham e confiam diariamente.
+
+---
+
+## 3. Oferta Irresistível de Entrada (O "Produto Ímã")
+Quebrar a barreira do primeiro contato e diminuir o medo do cliente de errar na primeira compra.
+
+* **Como fazer:** Escolha um produto de alta saída e boa margem (ou um combo rápido) e anuncie nas redes sociais com foco no benefício imediato.
+* **A tática:** No Instagram (*Reels*), mostre o problema que o produto resolve e termine com a chamada: *"Compre o combo X esta semana e ganhe o frete grátis (ou o brinde Y)"*.
+* **Por que funciona:** Reduz o atrito da primeira compra. Com o cliente dentro da base, o custo para vender uma segunda vez é muito menor.
+
+---
+
+
+
+CRAFT  # Estrutura de Vendas com o Método CRAFT
+
+Este documento aplica a metodologia CRAFT para estruturar estratégias de marketing digital e criar prompts de alta conversão.
+
+---
+
+## 📌 O que é o Método CRAFT?
+
+|  Significado | Aplicação neste Projeto |
+
+|| **Contexto** | Um comércio local que precisa alavancar vendas rapidamente com baixo orçamento. |
+|  **Resultado** | Aumento do faturamento, retenção de clientes e atração de novos compradores locais. |
+| **Alvo (Público)** | Clientes da região (bairro/cidade) e seguidores de microinfluenciadores locais. |
+| **Fonte / Tom** | Tom persuasivo, direto, profissional e focado em gatilhos mentais (escassez/exclusividade). |
+| **Tarefa** | Implementar as 3 táticas (WhatsApp Proativo, Microinfluenciadores e Produto Ímã). |
+
+---
+
+## 🚀 As 3 Estratégias no Modelo CRAFT
+
+### 1. WhatsApp Proativo (O "Gancho")
+* **Contexto:** Clientes inativos ou que demonstraram interesse nos últimos 30-60 dias.
+* **Tarefa:** Enviar mensagem direta oferecendo exclusividade.
+* **Tom:** Próximo, personalizado e urgente.
+* **Resultado:** Reativação da base de clientes e pico de vendas em 24h.
+
+### 2. Parcerias com Microinfluenciadores
+* **Contexto:** Audiência local que ainda não conhece ou não confia no comércio.
+* **Tarefa:** Troca de produtos (permuta) por reviews reais nos *Stories*.
+* **Tom:** Autêntico, espontâneo e focado em indicação amigável.
+* **Resultado:** Atração de novos seguidores qualificados e validação social do negócio.
+
+### 3. Oferta de Entrada (O "Produto Ímã")
+* **Contexto:** Potenciais clientes que têm medo de arriscar na primeira compra.
+* **Tarefa:** Criar um combo com frete grátis ou brinde via *Reels*.
+* **Tom:** Atraente, focado no custo-benefício e de fácil decisão.
+* **Resultado:** Redução do custo de aquisição de clientes (CAC) e entrada de novos nomes no funil.
+
+---
+
+
+
+[CONTEXTO]: Tenho um comércio do segmento de [insira o segmento, ex: roupas femininas] focado em vendas [online / loja física]. Meu objetivo atual é [insira o objetivo, ex: desencalhar o estoque de inverno].
+[ALVO]: Meu público-alvo são moradores da região, principalmente [insira o perfil, ex: mulheres de 25 a 40 anos que buscam praticidade].
+[TAREFA]: Crie 3 variações de mensagens persuasivas para o WhatsApp e 1 roteiro de Reels de 30 segundos aplicando o conceito de "Produto Ímã".
+[FORMATO/TOM]: O tom deve ser amigável, direto, sem parecer spam, utilizando gatilhos de escassez e exclusividade.
+
+
+
+COSTAR ```text
+# CONTEXTO
+Tenho um comércio do segmento de roupas femininas (vendas físicas e online). Meu objetivo atual é desencalhar o estoque de inverno, girando as peças que ficaram paradas.
+
+# OBJETIVO
+Crie 3 variações de mensagens persuasivas para abordagem ativa no WhatsApp e 1 roteiro de vídeo curto estilo Reels de 30 segundos, aplicando o conceito de "Produto Ímã" (usando uma peça curinga de alto giro como atrativo).
+
+# ESTILO
+Copywriting focado no meio digital. Mensagens escaneáveis, uso estratégico de quebras de linha e emojis sutis. O roteiro do Reels deve ser dinâmico e focado no cotidiano.
+
+# TOM
+Amigável, direto, focado na resolução de problemas (praticidade) e utilizando de forma leve os gatilhos mentais da escassez (últimas unidades) e exclusividade.
+
+# AUDIÊNCIA
+Mulheres locais (moradoras da região), na faixa de 25 a 40 anos, cuja principal dor é a falta de tempo/praticidade para se vestir bem na rotina acelerada e nos dias frios.
+
+# RESPOSTA
+Forneça as 3 variações de texto para WhatsApp claramente separadas por títulos. Para o roteiro do Reels, envie em formato de tabela Markdown contendo as colunas: Tempo, Visual (Ação na tela) e Áudio (Fala/Legenda).
+
+Atividade 3
+PROMPT A 
+Explique o que é computação em nuvem.
+R: prompt simples 
+
+PROMPT B
+Role: Você é professor de tecnologia.
+
+Task: Explique computação em nuvem.
+
+Format: Responda em 3 tópicos
+R: prompt RTF 
+
+PROMPT C
+Contexto: Uma empresa quer migrar seus sistemas para a nuvem.
+
+Role: Especialista em cloud computing.
+
+Action: Explique vantagens da computação em nuvem.
+
+Format: Lista de 5 pontos.
+
+Target: Gestores de TI iniciantes.
+R: prompt CRAFT
+
+PROMPT D
+Contexto: Uma empresa quer migrar para a nuvem.
+
+Objetivo: Explicar benefícios da computação em nuvem.
+
+Estilo: Educativo.
+
+Tom: Profissional.
+
+Audiência: Gestores de TI.
+
+Formato da resposta: 5 tópicos explicados.
+R: prompt COSTAR
+
+Atividade 4
+
+```text
+# CONTEXTO
+Uma escola de ensino profissionalizante deseja lançar e divulgar seus novos cursos de tecnologia (como programação, criação de jogos e inteligência artificial) para abrir novas turmas.
+
+# OBJETIVO
+Criar uma campanha de divulgação composta por 3 publicações diferentes para engajar o público e gerar matrículas nos cursos.
+
+# ESTILO
+Formatado especificamente para publicação em redes sociais (como Instagram e TikTok). Utilize quebras de linhas para deixar o texto escaneável, bullet points para listar benefícios e emojis modernos de forma estratégica.
+
+# TOM
+Descontraído, amigável, inspirador e com uma linguagem simples. Evite termos técnicos complicados (jargões de TI) para não parecer chato ou difícil.
+
+# AUDIÊNCIA
+Jovens que têm interesse em tecnologia, internet e jogos, mas que buscam uma profissão ou um primeiro emprego na área de forma prática e rápida.
+
+# RESPOSTA
+Apresente os textos das 3 publicações da campanha de forma sequencial. Para cada post, separe o conteúdo em: "Sugestão de Imagem/Vídeo" (recurso visual) e "Legenda do Post" (texto da publicação com hashtags recomendadas).
+
+
+
+
+-----------------------------
+
+
+
+
+
